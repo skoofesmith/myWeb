@@ -1,0 +1,182 @@
+h1 
+{
+	font-size: 4em;
+	font-family: times new roman;
+	text-align: center;
+	
+}
+
+
+h2
+{
+	font-size: 2em;
+}
+
+
+body
+{
+	color:#758FE5;
+	background-color: #00333F;
+}
+
+
+a
+{
+	color:#CCFF00
+}
+
+a:visited
+{
+	color: aqua;
+}
+
+a:hover
+{
+	color: white;
+}
+
+.nav3
+{
+	border: solid thick #2B56E3;
+	padding: 10px;
+	background-color: DarkBlue;	
+}
+
+
+
+
+.image1
+{
+	vertical-align: middle;	
+}
+
+.image2
+{
+	vertical-align: middle;
+	float: left;
+	margin-right: 40px;
+}
+
+
+nav
+{
+		margin-bottom: 5em;
+		border: Solid thick Black;
+		padding: 5px;
+		background-color: SkyBlue;
+}
+
+
+.aside
+{
+	border: solid thin blue;
+	padding: 10px;
+	background-color: #00295C;
+	margin-left: 37em;
+	margin-right: 10em;
+}
+
+.aside2
+{
+	border: solid thin blue;
+	padding: 10px;
+	background-color: #00295C;
+	margin-right: 30em;
+}
+
+.asideT1
+{
+	vertical-align: middle;
+}
+
+.div1
+{
+	border: solid thin blue;
+	padding: 10px;
+	background-color: #00295C;
+	margin-left: 40em;
+}
+
+.div2
+{
+	border: solid thin blue;
+	padding: 10px;
+	background-color: #00295c;
+	margin-right: 20em;
+}
+.div3
+{
+	border: solid thin blue;
+	padding: 10px;
+	background-color: #00295c;
+	margin-top: 10em;
+	margin-bottom: 20em;
+	margin-right: 10em;
+	margin-left: 38em;
+}
+
+.div4
+{
+	border: solid thin blue;
+	padding: 10px;
+	background-color: #00295c;
+	margin-top: 7em;
+	margin-right: 30em;
+}
+
+
+.footer
+{
+	margin-top: 5em;
+	border: solid thick DarkGray;
+	background-color: black;
+	line-height: 2em;
+	color: #758FE5;
+}
+.body
+{
+	border: solid thick darkblue;
+	background-color: darkblue;
+	float: left;
+	vertical-align: middle;
+	margin-top: 60px;
+}
+
+
+table
+{
+	border: solid thick Black;
+	border-collapse: collapse;
+	background-color: DarkGreen;
+	color: Red;
+	font-size: 2em;
+}
+tr, td, th
+{
+	border: solid thick Black;
+	padding: 5px;
+	vertical-align: center;
+	text-align: center;
+}
+th
+{
+	background-color: Green;
+}
+
+caption
+{
+	caption-side: top;
+	font-weight: bold;
+	margin: 5px;
+}
+
+tr:hover
+{
+	background-color: Cyan;
+	color: Blue;
+}
+
+iframe
+{
+	text-align: center;
+}
